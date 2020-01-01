@@ -13,4 +13,4 @@ GCI project. Fetches lyrics of song that you're currently listening on Spotify v
  - woohoo, you did it
 
 ## picrel
-![](https://i.imgur.com/6q5QxYw.png)
+![](https://i.imgur.com/KJfMiPO.png)
